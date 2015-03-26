@@ -1,3 +1,4 @@
-Gitテスト用ファイル
-新たに2行目を追加
-creat sub branch 
+This file is to testing git
+add second line
+creat sub branch
+master branch commit
