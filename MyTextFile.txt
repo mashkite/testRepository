@@ -1,4 +1,4 @@
-This file is to testing git
-add second line
+GitTest
+2nd line added
 creat sub branch
 master branch commit
